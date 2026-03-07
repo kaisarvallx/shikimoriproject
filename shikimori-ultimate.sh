@@ -30,7 +30,7 @@ show_banner() {
     echo -e "${RED}╔═══════════════════════════════════════════════════════════════╗${NC}"
     echo -e "${RED}║${YELLOW}            🛡️ SHIKIMORI ULTIMATE PROTECTION V4 🛡️            ${RED}║${NC}"
     echo -e "${RED}╠═══════════════════════════════════════════════════════════════╣${NC}"
-    echo -e "${RED}║${WHITE}          4 LAPIS VERIFIKASI - ANTI BYPASS - ANTI HIJACK        ${RED}║${NC}"
+    echo -e "${RED}║${WHITE}             🪐 Created And Developed By t.me/vallcz 🪐      ${RED}║${NC}"
     echo -e "${RED}╚═══════════════════════════════════════════════════════════════╝${NC}"
     echo ""
 }
